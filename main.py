@@ -15,6 +15,7 @@ origins = [
     "http://localhost",
     "http://localhost:8081",
     "https://cajero-app-14.herokuapp.com"
+    "https://cajero-api-14.herokuapp.com"
 ]
 
 api.add_middleware(
